@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: demo.MicroserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.34 s <<< FAILURE! - in demo.MicroserviceApplicationTests
+initializationError(demo.MicroserviceApplicationTests)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+
